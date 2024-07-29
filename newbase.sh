@@ -50,7 +50,7 @@ CHECKPOINT_MODELS=(
 	
 )
 
-EMBEDDING_MODELS=(
+EMBEDDINGS=(
 
     "https://civitai.com/api/download/models/539032?token=b9147a10fb6e4ae9f7b3b5caa6799a91"
 

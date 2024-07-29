@@ -32,6 +32,8 @@ EXTENSIONS=(
 	"https://github.com/KichangKim/DeepDanbooru"
 	"https://github.com/glucauze/sd-webui-faceswaplab"
 	"https://github.com/zanllp/sd-webui-infinite-image-browsing"
+        "https://github.com/ilian6806/stable-diffusion-webui-state"
+	"https://github.com/Bing-su/adetailer"
 	
 	
 )

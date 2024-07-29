@@ -2,7 +2,6 @@
 # This file will be sourced in init.sh
 # Namespace functions with provisioning_
 
-# https://raw.githubusercontent.com/ai-dock/stable-diffusion-webui/main/config/provisioning/default.sh
 
 ### Edit the following arrays to suit your workflow - values must be quoted and separated by newlines or spaces.
 

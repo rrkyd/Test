@@ -35,6 +35,7 @@ EXTENSIONS=(
         "https://github.com/ilian6806/stable-diffusion-webui-state"
 	"https://github.com/Bing-su/adetailer"
         "https://github.com/zixaphir/Stable-Diffusion-Webui-Civitai-Helper"
+	"https://github.com/ahgsql/StyleSelectorXL"
 	
 	
 )

@@ -12,11 +12,11 @@ PIP_PACKAGES=(
 )
 
 EXTENSIONS=(
-    "https://github.com/Mikubill/sd-webui-controlnet"
-    "https://github.com/d8ahazard/sd_dreambooth_extension"
-    "https://github.com/deforum-art/sd-webui-deforum"
+    #"https://github.com/Mikubill/sd-webui-controlnet"
+    #"https://github.com/d8ahazard/sd_dreambooth_extension"
+    #"https://github.com/deforum-art/sd-webui-deforum"
     "https://github.com/adieyal/sd-dynamic-prompts"
-    "https://github.com/ototadana/sd-face-editor"
+    #"https://github.com/ototadana/sd-face-editor"
     "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
     "https://github.com/hako-mikan/sd-webui-regional-prompter"
     "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
@@ -30,11 +30,9 @@ EXTENSIONS=(
 	"https://github.com/sunnyark/civitai-shortcut"
 	"https://github.com/pharmapsychotic/clip-interrogator-ext"
 	"https://github.com/KichangKim/DeepDanbooru"
-	"https://github.com/glucauze/sd-webui-faceswaplab"
+	#"https://github.com/glucauze/sd-webui-faceswaplab"
 	"https://github.com/zanllp/sd-webui-infinite-image-browsing"
         "https://github.com/ilian6806/stable-diffusion-webui-state"
-	"https://github.com/Bing-su/adetailer"
-        "https://github.com/zixaphir/Stable-Diffusion-Webui-Civitai-Helper"
 	"https://github.com/ahgsql/StyleSelectorXL"
 	
 	
@@ -50,6 +48,23 @@ CHECKPOINT_MODELS=(
 	#"https://civitai.com/api/download/models/570138?token=b9147a10fb6e4ae9f7b3b5caa6799a91"
 	#"https://civitai.com/api/download/models/655516?token=b9147a10fb6e4ae9f7b3b5caa6799a91"
 	#"https://civitai.com/api/download/models/662796?token=b9147a10fb6e4ae9f7b3b5caa6799a91"
+ "https://civitai.com/api/download/models/275966" #Hentai ProtoGenesis XL
+ "https://civitai.com/api/download/models/634653" #Deep Dark Hentai Mix
+ "https://civitai.com/api/download/models/322725" #Trifecta XL
+ "https://civitai.com/api/download/models/690359" #WAI-SemiReal pony
+ "https://civitai.com/api/download/models/662452?type=Model&format=SafeTensor&size=full&fp=fp32" #Ultrium V8.1.NSFW+SFW.SDXL.VAE
+ "https://civitai.com/api/download/models/503779" #MIST XL Hyper Character
+ "https://civitai.com/api/download/models/535795" #MinkiePie pony mix
+ "https://civitai.com/api/download/models/608842" #iNiverse Mix XL
+ "https://civitai.com/api/download/models/379259" #AutismMix SDXL
+ "https://civitai.com/api/download/models/544529" #Better Than Hentai XXXL
+ "https://civitai.com/api/download/models/667593" #Meichidark_Mix
+ "https://civitai.com/api/download/models/655516" #WAI-REAL_CN
+ "https://civitai.com/api/download/models/622187" #Osorubeshi-Pony-Rea
+ 
+ 
+
+ 
 	
 )
 
@@ -68,6 +83,8 @@ LORA_MODELS=(
 	"https://civitai.com/api/download/models/135867" #Detail TweaKER 
 	"https://civitai.com/api/download/models/595414" #Bukkake / excessive cum
 	"https://civitai.com/api/download/models/383563" #extremely detailed
+ "https://civitai.com/api/download/models/11914" #Instant Cumshot
+ "https://civitai.com/api/download/models/209580" #Sexy School Uniform
 	
 )
 
@@ -76,6 +93,8 @@ VAE_MODELS=(
     "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
     "https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors"
 	"https://civitai.com/api/download/models/290640?type=VAE&format=SafeTensor"
+ "https://civitai.com/models/296576/sdxl-vae"
+ "https://civitai.com/api/download/models/360299"
 )
 
 ESRGAN_MODELS=(

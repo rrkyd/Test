@@ -1,0 +1,9 @@
+workspace/storage/stable-diffusion-webui/models/Lora
+
+workspace/storage/stable-diffusion-webui/models/Stable-diffusion/Merge
+
+workspace/stable-diffusion-webui/embeddings/
+
+workspace/stable-diffusion-webui/extensions/
+
+workspace/stable-diffusion-webui/outputs/

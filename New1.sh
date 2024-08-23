@@ -34,6 +34,7 @@ EXTENSIONS=(
 	"https://github.com/zanllp/sd-webui-infinite-image-browsing"
         #"https://github.com/ilian6806/stable-diffusion-webui-state"
 	"https://github.com/ahgsql/StyleSelectorXL"
+        "https://github.com/ArtVentureX/sd-webui-agent-scheduler"
 	
 	
 )

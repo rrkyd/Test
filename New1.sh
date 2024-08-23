@@ -12,28 +12,28 @@ PIP_PACKAGES=(
 )
 
 EXTENSIONS=(
-    #"https://github.com/Mikubill/sd-webui-controlnet"
+    "https://github.com/Mikubill/sd-webui-controlnet"
     #"https://github.com/d8ahazard/sd_dreambooth_extension"
     #"https://github.com/deforum-art/sd-webui-deforum"
     "https://github.com/adieyal/sd-dynamic-prompts"
     #"https://github.com/ototadana/sd-face-editor"
     #"https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
-    #"https://github.com/hako-mikan/sd-webui-regional-prompter"
-    #"https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
-    #"https://github.com/Gourieff/sd-webui-reactor"
-	#"https://github.com/Physton/sd-webui-prompt-all-in-one"
-	#"https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper"
+    "https://github.com/hako-mikan/sd-webui-regional-prompter"
+    "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
+    "https://github.com/Gourieff/sd-webui-reactor"
+	"https://github.com/Physton/sd-webui-prompt-all-in-one"
+	"https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper"
 	#"https://github.com/BlafKing/sd-civitai-browser-plus"
-	#"https://gitcode.net/ranting8323/stable-diffusion-webui-wd14-tagger"
+	"https://gitcode.net/ranting8323/stable-diffusion-webui-wd14-tagger"
 	#"https://gitcode.net/ranting8323/sd-dynamic-thresholding.git"
-	#"https://github.com/Bing-su/adetailer"
+	"https://github.com/Bing-su/adetailer"
 	#"https://github.com/sunnyark/civitai-shortcut"
 	#"https://github.com/pharmapsychotic/clip-interrogator-ext"
-	#"https://github.com/KichangKim/DeepDanbooru"
-	#"https://github.com/glucauze/sd-webui-faceswaplab"
-	#"https://github.com/zanllp/sd-webui-infinite-image-browsing"
+	"https://github.com/KichangKim/DeepDanbooru"
+	"https://github.com/glucauze/sd-webui-faceswaplab"
+	"https://github.com/zanllp/sd-webui-infinite-image-browsing"
         #"https://github.com/ilian6806/stable-diffusion-webui-state"
-	#"https://github.com/ahgsql/StyleSelectorXL"
+	"https://github.com/ahgsql/StyleSelectorXL"
 	
 	
 )
@@ -89,11 +89,11 @@ LORA_MODELS=(
 )
 
 VAE_MODELS=(
-  #  "https://huggingface.co/stabilityai/sd-vae-ft-ema-original/resolve/main/vae-ft-ema-560000-ema-pruned.safetensors"
+  "https://huggingface.co/stabilityai/sd-vae-ft-ema-original/resolve/main/vae-ft-ema-560000-ema-pruned.safetensors"
   #  "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
   #  "https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors"
 #	"https://civitai.com/api/download/models/290640?type=VAE&format=SafeTensor"
-# "https://civitai.com/models/296576/sdxl-vae"
+"https://civitai.com/models/296576/sdxl-vae"
 # "https://civitai.com/api/download/models/360299"
 )
 

@@ -25,6 +25,11 @@ EXTENSIONS=(
     "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
     "https://github.com/hako-mikan/sd-webui-regional-prompter"
     "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
+    "https://github.com/zanllp/sd-webui-infinite-image-browsing"
+    "https://github.com/zixaphir/Stable-Diffusion-Webui-Civitai-Helper"
+    "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete"
+    "https://github.com/Bing-su/adetailer"
+    "https://github.com/mcmonkeyprojects/sd-infinity-grid-generator-script"
 )
 
 CHECKPOINT_MODELS=(
@@ -32,7 +37,10 @@ CHECKPOINT_MODELS=(
     #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
-     "https://civitai.com/api/download/models/534642?type=Model&format=SafeTensor&size=full&fp=fp16"
+    #"https://civitai.com/api/download/models/534642?type=Model&format=SafeTensor&size=full&fp=fp16"
+     "https://civitai.com/api/download/models/914390?type=Model&format=SafeTensor&size=full&fp=fp16"
+     "https://civitai.com/api/download/models/970149?type=Model&format=SafeTensor&size=full&fp=fp16"
+     "https://civitai.com/api/download/models/719121?type=Model&format=SafeTensor&size=pruned&fp=fp16"
 )
 
 LORA_MODELS=(
